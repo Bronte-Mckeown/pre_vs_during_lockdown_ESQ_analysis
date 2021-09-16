@@ -1,6 +1,6 @@
 "This script runs Linear Mixed Models to predict thought PCAs by 
 Sample, Social environment & Age-Group (and their interactions).
-Reads in experience-sampling data (see Mendeley Data, doi: 10.17632/xv6dv2drm8.1)
+Reads in experience-sampling data (see Mendeley Data, doi: 10.17632/n3wz7y8mhs.1)
 Sets up fixed factors: Sample (2 levels), Age-group (2 levels), Social Environment (3 levels)
 Sets up random factors: Participant id and day_number
 Uses loop to run all 5 models and create bar charts.
