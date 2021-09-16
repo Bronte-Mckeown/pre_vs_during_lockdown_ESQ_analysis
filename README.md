@@ -4,7 +4,7 @@ This repo contains all of the scripts used in the analysis reported in Mckeown e
 
 For data used in these analyses, see: Mckeown, Bronte; Poerio, Giulia; Martinon, Léa; Strawson, Will; McCall, Cade; Smallwood, Jonathan; Riby, Leigh; Jefferies, Elizabeth (2021), “Data for: The impact of social isolation and changes in work patterns on ongoing thought during the first COVID-19 lockdown in the UK.”, Mendeley Data, V1, doi: 10.17632/xv6dv2drm8.1
 
-There are 6 R scripts in total:
+There are 9 R scripts in total:
 1. lmm_pca_thoughts_by_sample_social_agegroup_centered_age
 - This script compares PCA thought components between 1) samples, 2) social environments and 3) age groups and includes age group mean-centered age as a nuissance covariate.
 2. lmm_pca_thoughts_by_primary_activity_agegroup
@@ -17,3 +17,9 @@ There are 6 R scripts in total:
 - This script compares PCA affect components between 1) samples, 2) social environments and 3) age groups and includes age group mean-centered age as a nuissance covariate.
 6. lmm_pca_thoughts_by_sample_social_agegroup_centered_age_limit_age_range
 - This script compares PCA thought components between 1) samples, 2) social environments and 3) age groups and includes age group mean-centered age as a nuissance covariate, while also limiting young age-group range to 18-27 in both samples. 
+7. social_env_barchart_anovo_location_piechart
+- This script creates location pie chart and social environment bar chart presented in figure 1 and calculates ANOVA comparing 'alone' percentage between 1) sample and 2) age groups.
+8. correspondence_between_pca_thought_solutions_scatterplots
+- This script creates scatterplots showing correspondence between PCA thought solutions applied to both samples together and separately. 
+10. correspondence_between_pca_affect_solutions_scatterplots
+- This script creates scatterplots showing correspondence between PCA affect solutions applied to both samples together and separately. 
