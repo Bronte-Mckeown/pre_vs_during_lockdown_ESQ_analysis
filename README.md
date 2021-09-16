@@ -21,5 +21,5 @@ There are 9 R scripts in total:
 - This script creates location pie chart and social environment bar chart presented in figure 1 and calculates ANOVA comparing 'alone' percentage between 1) sample and 2) age groups.
 8. correspondence_between_pca_thought_solutions_scatterplots
 - This script creates scatterplots showing correspondence between PCA thought solutions applied to both samples together and separately. 
-10. correspondence_between_pca_affect_solutions_scatterplots
+9. correspondence_between_pca_affect_solutions_scatterplots
 - This script creates scatterplots showing correspondence between PCA affect solutions applied to both samples together and separately. 
