@@ -2,6 +2,8 @@
 ## Repository description
 This repo contains all of the scripts used in the analysis reported in Mckeown et al. (2021): "The impact of social isolation and changes in work patterns on ongoing thought during the first COVID-19 lockdown in the UK."
 
+For data used in these analyses, see: Mckeown, Bronte; Poerio, Giulia; Martinon, Léa; Strawson, Will; McCall, Cade; Smallwood, Jonathan; Riby, Leigh; Jefferies, Elizabeth (2021), “Data for: The impact of social isolation and changes in work patterns on ongoing thought during the first COVID-19 lockdown in the UK.”, Mendeley Data, V1, doi: 10.17632/xv6dv2drm8.1
+
 There are 6 R scripts in total:
 1. lmm_pca_thoughts_by_sample_social_agegroup_centered_age
 - This script compares PCA thought components between 1) samples, 2) social environments and 3) age groups and includes age group mean-centered age as a nuissance covariate.
