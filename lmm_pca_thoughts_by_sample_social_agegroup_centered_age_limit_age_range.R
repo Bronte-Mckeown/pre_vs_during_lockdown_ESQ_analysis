@@ -2,7 +2,7 @@
 Age-Group as predictors (and their interactions), while limiting age-range
 of younge age-group to be the same in both samples (pre and post lockdown).
 
-Reads in experience-sampling data (see Mendeley Data, doi: 10.17632/xv6dv2drm8.1)
+Reads in experience-sampling data (see Mendeley Data, doi: 10.17632/n3wz7y8mhs.1)
 Limits age-range.
 Sets up fixed factors: Sample (2 levels), Age-group (2 levels), Social Environment (3 levels)
 Sets up random factors: Participant id and day_number
