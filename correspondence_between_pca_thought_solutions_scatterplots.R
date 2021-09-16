@@ -9,6 +9,7 @@ library(ggpubr) #for plots
 library(patchwork) #for putting plots together
 
 #set current working directory of ESQ data. 
+# See Mendeley data: doi: 10.17632/n3wz7y8mhs.1
 setwd("")
 
 #read in csv file with 22-item ESQ data (both ESQ datasets)
