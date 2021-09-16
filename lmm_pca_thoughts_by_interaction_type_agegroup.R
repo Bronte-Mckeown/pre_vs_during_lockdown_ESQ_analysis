@@ -1,7 +1,7 @@
 "This script runs Linear Mixed Models with Interaction type and age-group
 as predictors in the lockdown sample. 
 
-Reads in experience-sampling data (see Mendeley Data, doi: 10.17632/xv6dv2drm8.1)
+Reads in experience-sampling data (see Mendeley Data, doi: 10.17632/n3wz7y8mhs.1)
 Selects lockdown sample.
 Sets up fixed factors: Interaction type (4 levels), Age-group (2 levels)
 Sets up random factors: Participant id and day_number
