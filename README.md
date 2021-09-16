@@ -2,7 +2,7 @@
 ## Repository description
 This repo contains all of the scripts used in the analysis reported in Mckeown et al. (2021): "The impact of social isolation and changes in work patterns on ongoing thought during the first COVID-19 lockdown in the United Kingdom."
 
-For data used in these analyses, see: Mckeown, Bronte; Poerio, Giulia; Martinon, Léa; Strawson, Will; McCall, Cade; Smallwood, Jonathan; Riby, Leigh; Jefferies, Elizabeth (2021), “Data for: The impact of social isolation and changes in work patterns on ongoing thought during the first COVID-19 lockdown in the UK.”, Mendeley Data, http://dx.doi.org/10.17632/n3wz7y8mhs.1
+For data used in these analyses, see: Mckeown et al (2021): "The impact of social isolation and changes in work patterns on ongoing thought during the first COVID-19 lockdown in the UK.”, Mendeley Data, http://dx.doi.org/10.17632/n3wz7y8mhs.1
 
 There are 9 R scripts in total:
 1. lmm_pca_thoughts_by_sample_social_agegroup_centered_age
