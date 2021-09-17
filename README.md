@@ -1,4 +1,4 @@
-# pre_vs_during_lockdown_ESQ_analysis
+# pre vs during lockdown ESQ analysis
 ## Repository description
 This repo contains all of the scripts used in the analysis reported in Mckeown et al. (2021): "The impact of social isolation and changes in work patterns on ongoing thought during the first COVID-19 lockdown in the United Kingdom."
 
